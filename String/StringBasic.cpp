@@ -19,9 +19,6 @@ int main()
     First[4] = 'a';     // use single quote
     cout << First << "\n";
     
-    
-    return 0;
-}
 
 // Jyoti Kumari
 // JyotiKumari
@@ -29,13 +26,6 @@ int main()
 //J
 //Jyota
 
-#include<iostream>
-#include <string>
-using namespace std;
-
-
-int main()
-{
     string name;
     cin >> name; // cin considers a space( white space or tab) as a terminating character means it can display only a single word
     cout << name << "\n";
@@ -43,6 +33,12 @@ int main()
     string Fullname;
     getline(cin, Fullname); // used to read a line of text
     cout << Fullname << "\n";
+
+    string a = "HelloWorld";
+    string c = a.substr(2, 5); // substring begins at k position and has length x
+    cout << c << "\n"; // lloWo
+
+    return 0;
 }
 
 // C++ Booleans

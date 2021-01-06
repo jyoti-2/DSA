@@ -1,0 +1,9 @@
+{
+    "terminal.integrated.confirmOnExit": true,
+    "terminal.integrated.cwd": "c:\\users",
+    "terminal.integrated.cursorWidth": 5,
+    "terminal.integrated.cursorStyle": "line",
+    "terminal.integrated.cursorBlinking": true,
+    "workbench.panel.defaultLocation": "left",
+    "editor.fontSize": 15
+}
