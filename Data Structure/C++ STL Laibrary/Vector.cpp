@@ -47,6 +47,17 @@ cout << v.back() << "\n";  // 4
     auto it1 = upper_bound(vect.begin(), vect.end(), 10);
     cout << (it1 - vect.begin()) << "\n";  // 7
 
+
+    vector<int> arr = {1, 2, 3, 4,5,6};
+    int sum = 0;
+    for(auto x : arr)
+    {
+        sum = sum +x;
+        cout << sum << "  ";  //1 3 6 10 15 21
+    }
+  
+
+
     return 0;
     
 
