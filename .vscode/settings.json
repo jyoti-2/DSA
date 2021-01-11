@@ -5,5 +5,9 @@
     "terminal.integrated.cursorStyle": "line",
     "terminal.integrated.cursorBlinking": true,
     "workbench.panel.defaultLocation": "left",
-    "editor.fontSize": 15
+    "editor.fontSize": 15,
+    "C_Cpp.errorSquiggles": "Disabled",
+    "files.associations": {
+        "xstring": "cpp"
+    }
 }
