@@ -8,6 +8,7 @@
     "editor.fontSize": 15,
     "C_Cpp.errorSquiggles": "Disabled",
     "files.associations": {
-        "xstring": "cpp"
+        "xstring": "cpp",
+        "stack": "cpp"
     }
 }

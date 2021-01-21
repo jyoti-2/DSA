@@ -33,4 +33,4 @@ int main()
     bubble(arr, n);
     print(arr, n);
 
-};
+}
