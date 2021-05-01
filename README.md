@@ -1,1 +1,1 @@
-C++ Laibrary for different Data Structures and Algorithms
+C++ Library for different Data Structures and Algorithms
