@@ -13,7 +13,7 @@ int main()  //function
 {   int a, b;
     string x;
     cin >> a >> b >> x;
-    cout << a << " " << b << " " << x << " "<< "\n";
+    cout << a << " " << b << " " << x << " "<< "\n"; // new line = endl
     cout << "how are you" ;
     return 0;
 }
@@ -33,7 +33,7 @@ int main()  //function
 using namespace std;
 typedef long long ll;
 int main()
-{   int n = 10;
+{  int n = 10;
    for ( int i =1 ; i <  n ; i++)
    cout <<i << " ";
     
